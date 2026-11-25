@@ -41,7 +41,3 @@ Sou Leonardo Lima da Silva, estudante de Análise e Desenvolvimento de Sistemas 
   * Implementação de validação de intervalos de notas (ex.: garantir valores entre 0 e 10).
   * Uso de dicionários ou classes para estruturar o registro de cada aluno.
   * Adição de testes unitários (ex.: com `unittest` ou `pytest`) para validar as regras de cálculo.
-
-## 4. Padrões Observ
-
-**Observação:** este documento representa o conhecimento demonstrado no portfólio e as tecnologias declaradas pelo desenvolvedor. Informações não comprovadas devem ser classificadas como não informadas ou não verificadas.
